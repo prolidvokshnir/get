@@ -1,2 +1,2 @@
 # get
-Temux-get
+setup.sh
